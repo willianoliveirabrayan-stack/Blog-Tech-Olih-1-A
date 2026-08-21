@@ -12,4 +12,10 @@ section{
  background-color: white;
  padding: 16px;  
  margin: 16px;
+ max-width: 500px;
+}
+.conteudo-site{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
 }
